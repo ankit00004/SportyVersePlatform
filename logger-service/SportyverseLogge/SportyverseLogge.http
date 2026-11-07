@@ -1,0 +1,6 @@
+@SportyverseLogge_HostAddress = http://localhost:5094
+
+GET {{SportyverseLogge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

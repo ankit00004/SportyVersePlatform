@@ -1,0 +1,18 @@
+# Java
+target/
+*.class
+*.jar
+
+# Node
+node_modules/
+build/
+
+# .NET
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
